@@ -1,6 +1,8 @@
 /home/mateusz/ITCamp-Kraków#2/2020.06.21-CarRentMaven/src/main/java/pl/camp/it/db/VehicleRepository.java
 /home/mateusz/ITCamp-Kraków#2/2020.06.21-CarRentMaven/src/main/java/pl/camp/it/model/Vehicle.java
+/home/mateusz/ITCamp-Kraków#2/2020.06.21-CarRentMaven/src/main/java/pl/camp/it/model/User.java
 /home/mateusz/ITCamp-Kraków#2/2020.06.21-CarRentMaven/src/main/java/pl/camp/it/model/Car.java
+/home/mateusz/ITCamp-Kraków#2/2020.06.21-CarRentMaven/src/main/java/pl/camp/it/db/SQLDb.java
 /home/mateusz/ITCamp-Kraków#2/2020.06.21-CarRentMaven/src/main/java/pl/camp/it/db/Persistance.java
 /home/mateusz/ITCamp-Kraków#2/2020.06.21-CarRentMaven/src/main/java/pl/camp/it/Main.java
 /home/mateusz/ITCamp-Kraków#2/2020.06.21-CarRentMaven/src/main/java/pl/camp/it/model/Bus.java
